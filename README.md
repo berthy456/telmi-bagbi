@@ -1,5 +1,5 @@
 # telmi-bagbi
-Boitier pour les miyoo propulsees par Telmi!
+Boitier pour les miyoo propulsées par Telmi!
 
 Plus d'infos sur http://www.telmi.fr et https://github.com/DantSu/Telmi-story-teller
 

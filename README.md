@@ -6,8 +6,8 @@ Plus d'infos sur http://www.telmi.fr et https://github.com/DantSu/Telmi-story-te
 Dessiné dans freecad 1.2.0dev, personnalisable, facile a monter (pour optimiser l'impression, un collage de deux parties de boutons est necessaire, toute colle de bricolage conviendrai..), et sans obligation de démonter la Miyoo on peut comparer ça a une housse protectrice, la Miyoo conserve son intégrité.
 
 Matériel nécessaire:
- - 200-300g de plastique ( au choix, les TPU et autres matieres souples seraient ideales au moins pour les boutons, sauf pour les parties techniques comme les ressorts de boutons ou je priviliegierai du PETG.
- - 5 ou 6 vis entre 2.5x10 et 2.5x20 
+ - environ 100g de plastique ( au choix, les TPU et autres matieres souples seraient ideales au moins pour les boutons, sauf pour les parties techniques comme les ressorts de boutons ou je priviliegierai du PETG.
+ - 5 ou 6 vis entre 2x10 et 2.5x20 ( vis a bois ou plastique avec petites tetes de preference)
  - une imprimante 3D  (un petit plateau de 15cm comme celui de la bambulab A1 mini est suffisant)
  - Options.....
 
@@ -18,7 +18,7 @@ La modification idéale selon moi serait:
 -un peu de fil pour la dérivation de l'audio sur le HP original (par ex. https://fr.aliexpress.com/item/1005005828509894.html)
 -3 aimants néodyme 10mmx3mm (voir lien plus bas)
 -> coût total 3 euros, plus le plastique, le matériel de soudure, les vis ( qui peuvent être facilement récupérées, ou trouvées en magasin de bricolage, privilégier des "vis a tôle" ou spéciales plastique). 
----> 90% des améliorations que pourraient apporter ce  boîtier vous couteront **moins de 10 euros au total**.
+---> 90% des améliorations que pourraient apporter ce  boîtier vous couteront **moins de 5 euros au total**.
 
 
 La Miyoo mini plus (https://fr.aliexpress.com/w/wholesale-miyoo-mini-plus.html le boîtier a été conçu pour la v2 du vendeur ampnow qui fait régulièrement des promos a moins de 35euros), console retrogaming sur laquelle se base Telmi, n'est pas forcement très adaptée aux tout petits, les boutons ont été simplifiés et agrandis. Prévue initialement pour siffloter des airs de tetris en 4bits, elle ne brille pas non plus par son haut parleur.. ça grésille beaucoup a pleine puissance... un boîtier règle aussi ce problème en permettant de remplacer le haut parleur. 

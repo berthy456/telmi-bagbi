@@ -3,6 +3,8 @@ Boitier pour les miyoo propulsées par Telmi!
 
 Plus d'infos sur http://www.telmi.fr et https://github.com/DantSu/Telmi-story-teller
 
+MAJ V1.2: Changement du haut parleur pour celui ci: https://fr.aliexpress.com/item/1005008267342362.html
+
 Dessiné dans freecad 1.2.0dev, personnalisable, facile a monter (pour optimiser l'impression, un collage de deux parties de boutons est necessaire, toute colle de bricolage conviendrai..), et sans obligation de démonter la Miyoo on peut comparer ça a une housse protectrice, la Miyoo conserve son intégrité.
 
 Matériel nécessaire:
@@ -17,7 +19,7 @@ La modification idéale selon moi serait:
 -un HP  latéral (voir lien plus bas)
 -un peu de fil pour la dérivation de l'audio sur le HP original (par ex. https://fr.aliexpress.com/item/1005005828509894.html)
 -3 aimants néodyme 10mmx3mm (voir lien plus bas)
--> coût total 3 euros, plus le plastique, le matériel de soudure, les vis ( qui peuvent être facilement récupérées, ou trouvées en magasin de bricolage, privilégier des "vis a tôle" ou spéciales plastique). 
+-> coût total 3 euros, plus le plastique, le matériel de soudure, les vis ( qui peuvent être facilement récupérées, ou trouvées en magasin de bricolage, privilégier des "vis a tôle" ou spéciales plastique). J'ai utilisé celles-ci: https://fr.aliexpress.com/item/1005012659854245.html (les M2x20, plus une toute petite pour la trappe a SD) 
 ---> 90% des améliorations que pourraient apporter ce  boîtier vous couteront **moins de 5 euros au total**.
 
 
@@ -34,7 +36,7 @@ Pour le son, deux possibilités:
 
  - **Uniquement en ouvrant la Miyoo:** 
 
-   - Dérivation du son sur un HP externe ( par ex. https://fr.aliexpress.com/item/1005008626624201.html )
+   - Dérivation du son sur un HP externe ( par ex. [https://fr.aliexpress.com/item/1005008626624201.html](https://fr.aliexpress.com/item/1005005828509894.html) )
 
 
  - **Sans même ouvrir la Miyoo:** 

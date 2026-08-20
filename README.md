@@ -16,6 +16,7 @@ Matériel nécessaire:
 Pour les options, ma recommandation pour la plupart des utilisateurs, serait de n'investir uniquement dans le minimum, un changement radical de la qualité du son sera déjà au rendez-vous! 
 
 La modification idéale selon moi serait: 
+
 -un HP  latéral (voir lien plus bas)
 -un peu de fil pour la dérivation de l'audio sur le HP original (par ex. https://fr.aliexpress.com/item/1005005828509894.html)
 -3 aimants néodyme 10mmx3mm (voir lien plus bas)

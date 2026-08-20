@@ -3,7 +3,7 @@ Boitier pour les miyoo propulsées par Telmi!
 
 Plus d'infos sur http://www.telmi.fr et https://github.com/DantSu/Telmi-story-teller
 
-MAJ V1.2: Changement du haut parleur pour celui ci: https://fr.aliexpress.com/item/1005008267342362.html
+**MAJ V1.2:** Changement du haut parleur pour celui ci: https://fr.aliexpress.com/item/1005008267342362.html
 
 Dessiné dans freecad 1.2.0dev, personnalisable, facile a monter (pour optimiser l'impression, un collage de deux parties de boutons est necessaire, toute colle de bricolage conviendrai..), et sans obligation de démonter la Miyoo on peut comparer ça a une housse protectrice, la Miyoo conserve son intégrité.
 

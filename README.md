@@ -9,7 +9,7 @@ Dessiné dans freecad 1.2.0dev, personnalisable, facile a monter (pour optimiser
 
 Matériel nécessaire:
  - environ 100g de plastique ( au choix, les TPU et autres matieres souples seraient ideales au moins pour les boutons, sauf pour les parties techniques comme les ressorts de boutons ou je priviliegierai du PETG.
- - 5 ou 6 vis entre 2x10 et 2.5x20 ( vis a bois ou plastique avec petites tetes de preference)
+ - 5 ou 6 vis entre 2x10 et 2x20 ( vis a bois ou plastique avec petites tetes de preference)
  - une imprimante 3D  (un petit plateau de 15cm comme celui de la bambulab A1 mini est suffisant)
  - Options.....
 
